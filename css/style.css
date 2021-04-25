@@ -238,6 +238,9 @@ center center/cover;
     outline: none;
     border-color: #f7c08a;
 }
+#contact-form .l-heading {
+        margin-top: 20px;
+}
 
 /* Footer */
 #main-footer{
